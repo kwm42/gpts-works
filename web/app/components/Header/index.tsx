@@ -17,7 +17,7 @@ export default () => {
               backgroundImage: "url('/brand.svg')",
             }}
           >
-            GPTs Works
+            AITools123
           </a>
         </h1>
 
@@ -45,7 +45,7 @@ export default () => {
                 GPTs
               </a>
             </li>
-            <li className="mx-4">
+            {/* <li className="mx-4">
               <a
                 href="https://github.com/all-in-aigc/gpts-works"
                 target="_blank"
@@ -62,10 +62,10 @@ export default () => {
               >
                 <BsTwitter className="text-xl" />
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
-        <a href="https://www.buymeacoffee.com/idoubi" target="_blank">
+        {/* <a href="https://www.buymeacoffee.com/idoubi" target="_blank">
           <svg
             width="27"
             height="39"
@@ -83,7 +83,7 @@ export default () => {
               fill="#0D0C22"
             ></path>
           </svg>
-        </a>
+        </a> */}
       </div>
     </header>
   );

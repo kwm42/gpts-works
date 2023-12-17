@@ -10,7 +10,7 @@ export default () => {
               Find fantastic GPTs all over the world.
             </h2>
           </div>
-          <div className="max-[767px]: max-[991px]:ml-4 max-[991px]:flex-none max-[767px]:mt-8">
+          {/* <div className="max-[767px]: max-[991px]:ml-4 max-[991px]:flex-none max-[767px]:mt-8">
             <div className="mb-4 flex max-w-[272px] items-start justify-start">
               <p className="text-[#636262] max-[479px]:text-sm">
                 Contact me email to
@@ -24,7 +24,7 @@ export default () => {
               />
               <p className="text-[#636262] max-[479px]:text-sm">me@idoubi.cc</p>
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="mb-14 mt-16 w-full [border-bottom:1.7px_solid_rgb(0,_0,_0)]"></div>
         <div className="flex flex-row justify-between max-[991px]:items-center max-[767px]:flex-col max-[767px]:items-start max-[479px]:flex-col-reverse">
