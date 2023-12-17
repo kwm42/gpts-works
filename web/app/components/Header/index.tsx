@@ -45,6 +45,15 @@ export default () => {
                 GPTs
               </a>
             </li>
+            <li className="mx-4">
+              <a
+                href="https://monica.im/?c=YBU4GYUB"
+                target="_blank"
+                className="text-[#FB8B24] hover:text-[#E36414]"
+              >
+                Try Monica
+              </a>
+            </li>
             {/* <li className="mx-4">
               <a
                 href="https://github.com/all-in-aigc/gpts-works"
